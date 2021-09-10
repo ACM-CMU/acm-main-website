@@ -44,7 +44,7 @@
                                     "type": "label",
                                     "attrs": {
                                         "class": "profile",
-                                        "id": "jasmine"
+                                        "id": "michelle"
                                     },
                                     "data": [
                                         {
@@ -75,7 +75,7 @@
                                                             "data": [{
                                                                 "type": "img",
                                                                 "attrs": {
-                                                                    "src": "headshots/jasmine.jpg"
+                                                                    "src": "headshots/michelle.jpg"
                                                                 },
                                                                 "data": []
                                                             }]
@@ -87,7 +87,7 @@
                                                             },
                                                             "data": [{
                                                                 "type": "string",
-                                                                "data": "Jasmine Cheng"
+                                                                "data": "Michelle YAN Zhu"
                                                             }]
                                                         },
                                                         {
@@ -97,7 +97,7 @@
                                                             },
                                                             "data": [{
                                                                 "type": "string",
-                                                                "data": "President"
+                                                                "data": "Over-President"
                                                             }]
                                                         }
                                                     ]
@@ -115,7 +115,7 @@
                                                             },
                                                             "data": [{
                                                                 "type": "string",
-                                                                "data": "Jasmine Cheng"
+                                                                "data": "Michelle YAN Zhu"
                                                             }]
                                                         },
                                                         {
@@ -125,8 +125,7 @@
                                                             },
                                                             "data": [{
                                                                 "type": "string",
-                                                                "data": "President"
-                                                            }]
+                                                                "data": "Over-President"
                                                         },
                                                         {
                                                             "type": "div",
@@ -135,7 +134,7 @@
                                                             },
                                                             "data": [{
                                                                 "type": "string",
-                                                                "data": "My name is Jasmine and I am a sophomore in SCS. I'm interested in Robotics. I dance on CMU's Bhangra team and like to cook."
+                                                                "data": "I love to learn."
                                                             }]
                                                         },
                                                         {
@@ -147,7 +146,7 @@
                                                                 "type": "a",
                                                                 "attrs": {
                                                                     "class": "linkedin",
-                                                                    "href": "https://www.linkedin.com/in/jasmine-a-cheng/",
+                                                                    "href": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
                                                                     "target": "_blank"
                                                                 },
                                                                 "data": [{
@@ -169,7 +168,7 @@
                                     "type": "label",
                                     "attrs": {
                                         "class": "profile",
-                                        "id": "harshal"
+                                        "id": "Jonathan"
                                     },
                                     "data": [
                                         {
@@ -200,7 +199,7 @@
                                                             "data": [{
                                                                 "type": "img",
                                                                 "attrs": {
-                                                                    "src": "headshots/harshal.png"
+                                                                    "src": "headshots/jonathan.png"
                                                                 },
                                                                 "data": []
                                                             }]
@@ -212,7 +211,7 @@
                                                             },
                                                             "data": [{
                                                                 "type": "string",
-                                                                "data": "Harshal Shah"
+                                                                "data": "Jonathan Chiu"
                                                             }]
                                                         },
                                                         {
@@ -222,7 +221,7 @@
                                                             },
                                                             "data": [{
                                                                 "type": "string",
-                                                                "data": "Vice President"
+                                                                "data": "Under-President"
                                                             }]
                                                         }
                                                     ]
@@ -240,7 +239,7 @@
                                                             },
                                                             "data": [{
                                                                 "type": "string",
-                                                                "data": "Harshal Shah"
+                                                                "data": "Jonathan Chiu"
                                                             }]
                                                         },
                                                         {
@@ -250,7 +249,7 @@
                                                             },
                                                             "data": [{
                                                                 "type": "string",
-                                                                "data": "Vice President"
+                                                                "data": "Under-President"
                                                             }]
                                                         },
                                                         {
@@ -260,7 +259,7 @@
                                                             },
                                                             "data": [{
                                                                 "type": "string",
-                                                                "data": "Hey There! I am Harshal, a grad student studying Information Security at CMU. I am a big fan of Marvel & DC movies/comics. In my free time I love playing tennis or badminton."
+                                                                "data": "I like to turn."
                                                             }]
                                                         },
                                                         {
