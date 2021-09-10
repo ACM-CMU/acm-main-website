@@ -126,6 +126,7 @@
                                                             "data": [{
                                                                 "type": "string",
                                                                 "data": "Over-President"
+                                                            }]
                                                         },
                                                         {
                                                             "type": "div",
@@ -168,7 +169,7 @@
                                     "type": "label",
                                     "attrs": {
                                         "class": "profile",
-                                        "id": "Jonathan"
+                                        "id": "jonathan"
                                     },
                                     "data": [
                                         {
@@ -259,7 +260,7 @@
                                                             },
                                                             "data": [{
                                                                 "type": "string",
-                                                                "data": "I like to turn."
+                                                                "data": "I love to turn."
                                                             }]
                                                         },
                                                         {
