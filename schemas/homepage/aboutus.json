@@ -960,7 +960,7 @@
                                     "type": "label",
                                     "attrs": {
                                         "class": "profile",
-                                        "id": "misha"
+                                        "id": "howard"
                                     },
                                     "data": [
                                         {
@@ -991,7 +991,7 @@
                                                             "data": [{
                                                                 "type": "img",
                                                                 "attrs": {
-                                                                    "src": "headshots/misha.jpg"
+                                                                    "src": "headshots/howard.jpg"
                                                                 },
                                                                 "data": []
                                                             }]
@@ -1003,7 +1003,7 @@
                                                             },
                                                             "data": [{
                                                                 "type": "string",
-                                                                "data": "Misha Ivkov"
+                                                                "data": "Howard Tang"
                                                             }]
                                                         },
                                                         {
@@ -1013,7 +1013,7 @@
                                                             },
                                                             "data": [{
                                                                 "type": "string",
-                                                                "data": "Membership Chair"
+                                                                "data": "Officer"
                                                             }]
                                                         }
                                                     ]
@@ -1031,7 +1031,7 @@
                                                             },
                                                             "data": [{
                                                                 "type": "string",
-                                                                "data": "Misha Ivkov"
+                                                                "data": "Howard Tang"
                                                             }]
                                                         },
                                                         {
@@ -1041,7 +1041,7 @@
                                                             },
                                                             "data": [{
                                                                 "type": "string",
-                                                                "data": "Membership Chair"
+                                                                "data": "Officer"
                                                             }]
                                                         },
                                                         {
@@ -1051,7 +1051,7 @@
                                                             },
                                                             "data": [{
                                                                 "type": "string",
-                                                                "data": "Hi, I'm Misha! I'm a Junior in Computer Science in the Theory Concentration. I love being a TA for various classes in the CS department and writing math problems for the CMU high school math competition, CMIMC. You'll also find me in the pool and the volleyball court during the warmer months."
+                                                                "data": "Hello there, I'm Howard and I am a sophomore studying Math and CS. I enjoying leaving random art on whiteboards around campus and eating General Tso's chicken at Hunan Express."
                                                             }]
                                                         },
                                                         {
