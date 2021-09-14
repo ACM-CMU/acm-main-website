@@ -44,45 +44,17 @@
                                 {
                                     "type": "a",
                                     "attrs": {
-                                        "href": "http://www.hackcmu.org"
+                                        "href": "https://docs.google.com/forms/d/e/1FAIpQLSex6QEUlb0wOgl7VLumSxB2DIO9c09yrzVtqOqVBT-ZIE7FDA/viewform"
                                     },
                                     "data": [{
                                         "type": "img",
                                         "attrs": {
                                             "id": "hackcmu",
-                                            "src": "images/hackcmu.png"
+                                            "src": "images/comingsoon.jpg"
                                         },
                                         "data": []
                                     }]
                                 },
-                                {
-                                    "type": "a",
-                                    "attrs": {
-                                        "href": "http://www.awap2019.com"
-                                    },
-                                    "data": [{
-                                        "type": "img",
-                                        "attrs": {
-                                            "id": "awap",
-                                            "src": "images/awap.png"
-                                        },
-                                        "data": []
-                                    }]
-                                },
-                                {
-                                    "type": "a",
-                                    "attrs": {
-                                        "href": "http://www.hackberrypi.org"
-                                    },
-                                    "data": [{
-                                        "type": "img",
-                                        "attrs": {
-                                            "id": "hackberrypi",
-                                            "src": "images/hackberrypi.png"
-                                        },
-                                        "data": []
-                                    }]
-                                }
                             ]
                         }
                     ]

@@ -391,6 +391,117 @@
                                     "type": "label",
                                     "attrs": {
                                         "class": "profile",
+                                        "id": "elaine"
+                                    },
+                                    "data": [
+                                        {
+                                            "type": "input",
+                                            "attrs": {
+                                                "class": "card-button",
+                                                "type": "checkbox"
+                                            },
+                                            "data": []
+                                        },
+                                        {
+                                            "type": "div",
+                                            "attrs": {
+                                                "class": "card"
+                                            },
+                                            "data": [
+                                                {
+                                                    "type": "div",
+                                                    "attrs": {
+                                                        "class": "card-front"
+                                                    },
+                                                    "data": [
+                                                        {
+                                                            "type": "div",
+                                                            "attrs": {
+                                                                "class": "cropper"
+                                                            },
+                                                            "data": [{
+                                                                "type": "img",
+                                                                "attrs": {
+                                                                    "src": "headshots/elaine.jpg"
+                                                                },
+                                                                "data": []
+                                                            }]
+                                                        },
+                                                        {
+                                                            "type": "div",
+                                                            "attrs": {
+                                                                "class": "profile-name"
+                                                            },
+                                                            "data": [{
+                                                                "type": "string",
+                                                                "data": "Elaine Wang"
+                                                            }]
+                                                        },
+                                                        {
+                                                            "type": "div",
+                                                            "attrs": {
+                                                                "class": "profile-title"
+                                                            },
+                                                            "data": [{
+                                                                "type": "string",
+                                                                "data": "Social & Public Relations Chair"
+                                                            }]
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "type": "div",
+                                                    "attrs": {
+                                                        "class": "card-back"
+                                                    },
+                                                    "data": [
+                                                        {
+                                                            "type": "div",
+                                                            "attrs": {
+                                                                "class": "profile-name"
+                                                            },
+                                                            "data": [{
+                                                                "type": "string",
+                                                                "data": "Elaine Wang"
+                                                            }]
+                                                        },
+                                                        {
+                                                            "type": "div",
+                                                            "attrs": {
+                                                                "class": "profile-title"
+                                                            },
+                                                            "data": [{
+                                                                "type": "string",
+                                                                "data": "Social & Public Relations Chair"
+                                                            }]
+                                                        },
+                                                        {
+                                                            "type": "div",
+                                                            "attrs": {
+                                                                "class": "profile-bio"
+                                                            },
+                                                            "data": [{
+                                                                "type": "string",
+                                                                "data": "Hi! My name is Elaine, and I am a sophomore studying Electrical and Computer Engineering. In my free time, I like to watch tv shows, crochet, and making matcha lattes. I also really enjoy finding good music and my boba order is a honey lemon green tea with lychee jelly."
+                                                            }]
+                                                        },
+                                                        {
+                                                            "type": "div",
+                                                            "attrs": {
+                                                                "class": "profile-links"
+                                                            },
+                                                            "data": []
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "label",
+                                    "attrs": {
+                                        "class": "profile",
                                         "id": "isaac"
                                     },
                                     "data": [
@@ -502,7 +613,7 @@
                                     "type": "label",
                                     "attrs": {
                                         "class": "profile",
-                                        "id": "matthew"
+                                        "id": "katie"
                                     },
                                     "data": [
                                         {
@@ -533,7 +644,7 @@
                                                             "data": [{
                                                                 "type": "img",
                                                                 "attrs": {
-                                                                    "src": "headshots/matthew.png"
+                                                                    "src": "headshots/katie.png"
                                                                 },
                                                                 "data": []
                                                             }]
@@ -545,7 +656,7 @@
                                                             },
                                                             "data": [{
                                                                 "type": "string",
-                                                                "data": "Matthew Komar"
+                                                                "data": "Katie Shaw"
                                                             }]
                                                         },
                                                         {
@@ -555,7 +666,7 @@
                                                             },
                                                             "data": [{
                                                                 "type": "string",
-                                                                "data": "Creative Director"
+                                                                "data": "Officer"
                                                             }]
                                                         }
                                                     ]
@@ -573,7 +684,7 @@
                                                             },
                                                             "data": [{
                                                                 "type": "string",
-                                                                "data": "Matthew Komar"
+                                                                "data": "Katie Shaw"
                                                             }]
                                                         },
                                                         {
@@ -583,7 +694,7 @@
                                                             },
                                                             "data": [{
                                                                 "type": "string",
-                                                                "data": "Creative Director"
+                                                                "data": "Officer"
                                                             }]
                                                         },
                                                         {
@@ -593,7 +704,7 @@
                                                             },
                                                             "data": [{
                                                                 "type": "string",
-                                                                "data": "Hey! I'm a sophomore studying HCI and Art. I primarily specialize in making Virtual Reality experiences. When not working on college stuff, I like to collaborate on fun side projects with friends and learn new skills!"
+                                                                "data": "Hi! My name is Katie, and I am a sophomore studying Economics and Statistics. In my free time, I enjoy reading, drawing, catching up on sleep, and trying new food."
                                                             }]
                                                         },
                                                         {
@@ -613,7 +724,7 @@
                                     "type": "label",
                                     "attrs": {
                                         "class": "profile",
-                                        "id": "isaac"
+                                        "id": "david"
                                     },
                                     "data": [
                                         {
@@ -644,7 +755,7 @@
                                                             "data": [{
                                                                 "type": "img",
                                                                 "attrs": {
-                                                                    "src": "headshots/isaac.png"
+                                                                    "src": "headshots/david.jpg"
                                                                 },
                                                                 "data": []
                                                             }]
@@ -656,7 +767,7 @@
                                                             },
                                                             "data": [{
                                                                 "type": "string",
-                                                                "data": "Isaac McMahon"
+                                                                "data": "David Luo"
                                                             }]
                                                         },
                                                         {
@@ -666,7 +777,7 @@
                                                             },
                                                             "data": [{
                                                                 "type": "string",
-                                                                "data": "Treasurer"
+                                                                "data": "Officer"
                                                             }]
                                                         }
                                                     ]
@@ -684,7 +795,7 @@
                                                             },
                                                             "data": [{
                                                                 "type": "string",
-                                                                "data": "Isaac McMahon"
+                                                                "data": "David Luo"
                                                             }]
                                                         },
                                                         {
@@ -694,7 +805,7 @@
                                                             },
                                                             "data": [{
                                                                 "type": "string",
-                                                                "data": "Treasurer"
+                                                                "data": "Officer"
                                                             }]
                                                         },
                                                         {
@@ -704,7 +815,7 @@
                                                             },
                                                             "data": [{
                                                                 "type": "string",
-                                                                "data": "Hi! I'm Isaac and I'm a Junior in Physics, and I'm starting to do research in Astrophysics. You can also catch me cooking, playing music, or cleaning forgotten closets in Gates."
+                                                                "data": "Hi there! My name is David, and I'm a sophomore studying CS. Outside of school, my favorite hobby is golfing, and I am a member of CMU's men's golf team."
                                                             }]
                                                         },
                                                         {
@@ -724,7 +835,7 @@
                                     "type": "label",
                                     "attrs": {
                                         "class": "profile",
-                                        "id": "clara"
+                                        "id": "jocelyn"
                                     },
                                     "data": [
                                         {
@@ -755,7 +866,7 @@
                                                             "data": [{
                                                                 "type": "img",
                                                                 "attrs": {
-                                                                    "src": "headshots/clara.jpg"
+                                                                    "src": "headshots/jocelyn.jpg"
                                                                 },
                                                                 "data": []
                                                             }]
@@ -767,7 +878,7 @@
                                                             },
                                                             "data": [{
                                                                 "type": "string",
-                                                                "data": "Clara Sellke"
+                                                                "data": "Jocelyn Tseng"
                                                             }]
                                                         },
                                                         {
@@ -777,7 +888,7 @@
                                                             },
                                                             "data": [{
                                                                 "type": "string",
-                                                                "data": "Social & Public Relations Chair"
+                                                                "data": "Officer"
                                                             }]
                                                         }
                                                     ]
@@ -795,7 +906,7 @@
                                                             },
                                                             "data": [{
                                                                 "type": "string",
-                                                                "data": "Clara Sellke"
+                                                                "data": "Jocelyn Tseng"
                                                             }]
                                                         },
                                                         {
@@ -805,7 +916,7 @@
                                                             },
                                                             "data": [{
                                                                 "type": "string",
-                                                                "data": "Social & Public Relations Chair"
+                                                                "data": "Officer"
                                                             }]
                                                         },
                                                         {
@@ -815,7 +926,7 @@
                                                             },
                                                             "data": [{
                                                                 "type": "string",
-                                                                "data": "I'm a CS major, Math minor, and maybe a Linguistics minor. I like working out and becoming swole, baking+cooking+cutting fruit, knitting+crocheting, and dabbing. Fun fact - I can whip meringue by hand!"
+                                                                "data": "Hello! I'm Jocelyn, a sophomore studying Computer Science and doing research in Augmented Reality! At a given point in time, you can find me in Gates, sleeping, running outdoors, or eating spaghetti."
                                                             }]
                                                         },
                                                         {
@@ -823,118 +934,21 @@
                                                             "attrs": {
                                                                 "class": "profile-links"
                                                             },
-                                                            "data": []
-                                                        }
-                                                    ]
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                },
-                                {
-                                    "type": "label",
-                                    "attrs": {
-                                        "class": "profile",
-                                        "id": "dennis"
-                                    },
-                                    "data": [
-                                        {
-                                            "type": "input",
-                                            "attrs": {
-                                                "class": "card-button",
-                                                "type": "checkbox"
-                                            },
-                                            "data": []
-                                        },
-                                        {
-                                            "type": "div",
-                                            "attrs": {
-                                                "class": "card"
-                                            },
-                                            "data": [
-                                                {
-                                                    "type": "div",
-                                                    "attrs": {
-                                                        "class": "card-front"
-                                                    },
-                                                    "data": [
-                                                        {
-                                                            "type": "div",
-                                                            "attrs": {
-                                                                "class": "cropper"
-                                                            },
                                                             "data": [{
-                                                                "type": "img",
+                                                                "type": "a",
                                                                 "attrs": {
-                                                                    "src": "headshots/dennis.jpg"
+                                                                    "class": "linkedin",
+                                                                    "href": "https://www.linkedin.com/in/jocelyntseng/",
+                                                                    "target": "_blank"
                                                                 },
-                                                                "data": []
+                                                                "data": [{
+                                                                    "type": "img",
+                                                                    "attrs": {
+                                                                        "src": "logos/linkedin.png"
+                                                                    },
+                                                                    "data": []
+                                                                }]
                                                             }]
-                                                        },
-                                                        {
-                                                            "type": "div",
-                                                            "attrs": {
-                                                                "class": "profile-name"
-                                                            },
-                                                            "data": [{
-                                                                "type": "string",
-                                                                "data": "Dennis Lo"
-                                                            }]
-                                                        },
-                                                        {
-                                                            "type": "div",
-                                                            "attrs": {
-                                                                "class": "profile-title"
-                                                            },
-                                                            "data": [{
-                                                                "type": "string",
-                                                                "data": "Technical Infrastructure Officer"
-                                                            }]
-                                                        }
-                                                    ]
-                                                },
-                                                {
-                                                    "type": "div",
-                                                    "attrs": {
-                                                        "class": "card-back"
-                                                    },
-                                                    "data": [
-                                                        {
-                                                            "type": "div",
-                                                            "attrs": {
-                                                                "class": "profile-name"
-                                                            },
-                                                            "data": [{
-                                                                "type": "string",
-                                                                "data": "Dennis Lo"
-                                                            }]
-                                                        },
-                                                        {
-                                                            "type": "div",
-                                                            "attrs": {
-                                                                "class": "profile-title"
-                                                            },
-                                                            "data": [{
-                                                                "type": "string",
-                                                                "data": "Technical Infrastructure Officer"
-                                                            }]
-                                                        },
-                                                        {
-                                                            "type": "div",
-                                                            "attrs": {
-                                                                "class": "profile-bio"
-                                                            },
-                                                            "data": [{
-                                                                "type": "string",
-                                                                "data": "I'm Dennis, a sophomore studying Information Systems and Computer Science. On any given day, you can find me coding, biking, and listening to jazz."
-                                                            }]
-                                                        },
-                                                        {
-                                                            "type": "div",
-                                                            "attrs": {
-                                                                "class": "profile-links"
-                                                            },
-                                                            "data": []
                                                         }
                                                     ]
                                                 }
