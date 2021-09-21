@@ -613,6 +613,117 @@
                                     "type": "label",
                                     "attrs": {
                                         "class": "profile",
+                                        "id": "katie"
+                                    },
+                                    "data": [
+                                        {
+                                            "type": "input",
+                                            "attrs": {
+                                                "class": "card-button",
+                                                "type": "checkbox"
+                                            },
+                                            "data": []
+                                        },
+                                        {
+                                            "type": "div",
+                                            "attrs": {
+                                                "class": "card"
+                                            },
+                                            "data": [
+                                                {
+                                                    "type": "div",
+                                                    "attrs": {
+                                                        "class": "card-front"
+                                                    },
+                                                    "data": [
+                                                        {
+                                                            "type": "div",
+                                                            "attrs": {
+                                                                "class": "cropper"
+                                                            },
+                                                            "data": [{
+                                                                "type": "img",
+                                                                "attrs": {
+                                                                    "src": "headshots/katie.png"
+                                                                },
+                                                                "data": []
+                                                            }]
+                                                        },
+                                                        {
+                                                            "type": "div",
+                                                            "attrs": {
+                                                                "class": "profile-name"
+                                                            },
+                                                            "data": [{
+                                                                "type": "string",
+                                                                "data": "Katie Shaw"
+                                                            }]
+                                                        },
+                                                        {
+                                                            "type": "div",
+                                                            "attrs": {
+                                                                "class": "profile-title"
+                                                            },
+                                                            "data": [{
+                                                                "type": "string",
+                                                                "data": "Creative Director"
+                                                            }]
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "type": "div",
+                                                    "attrs": {
+                                                        "class": "card-back"
+                                                    },
+                                                    "data": [
+                                                        {
+                                                            "type": "div",
+                                                            "attrs": {
+                                                                "class": "profile-name"
+                                                            },
+                                                            "data": [{
+                                                                "type": "string",
+                                                                "data": "Katie Shaw"
+                                                            }]
+                                                        },
+                                                        {
+                                                            "type": "div",
+                                                            "attrs": {
+                                                                "class": "profile-title"
+                                                            },
+                                                            "data": [{
+                                                                "type": "string",
+                                                                "data": "Creative Director"
+                                                            }]
+                                                        },
+                                                        {
+                                                            "type": "div",
+                                                            "attrs": {
+                                                                "class": "profile-bio"
+                                                            },
+                                                            "data": [{
+                                                                "type": "string",
+                                                                "data": "Hi! My name is Katie, and I am a sophomore studying Economics and Statistics. In my free time, I enjoy reading, drawing, catching up on sleep, and trying new food."
+                                                            }]
+                                                        },
+                                                        {
+                                                            "type": "div",
+                                                            "attrs": {
+                                                                "class": "profile-links"
+                                                            },
+                                                            "data": []
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "label",
+                                    "attrs": {
+                                        "class": "profile",
                                         "id": "isaac"
                                     },
                                     "data": [
@@ -705,117 +816,6 @@
                                                             "data": [{
                                                                 "type": "string",
                                                                 "data": "Hiya, I'm Isaac, and I'm a sophomore studying CS. As of now, I spend most of my time suffering in 251 but I usually spend the rest of my time hanging out / sleeping / going to church / playing fighting games."
-                                                            }]
-                                                        },
-                                                        {
-                                                            "type": "div",
-                                                            "attrs": {
-                                                                "class": "profile-links"
-                                                            },
-                                                            "data": []
-                                                        }
-                                                    ]
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                },
-                                {
-                                    "type": "label",
-                                    "attrs": {
-                                        "class": "profile",
-                                        "id": "katie"
-                                    },
-                                    "data": [
-                                        {
-                                            "type": "input",
-                                            "attrs": {
-                                                "class": "card-button",
-                                                "type": "checkbox"
-                                            },
-                                            "data": []
-                                        },
-                                        {
-                                            "type": "div",
-                                            "attrs": {
-                                                "class": "card"
-                                            },
-                                            "data": [
-                                                {
-                                                    "type": "div",
-                                                    "attrs": {
-                                                        "class": "card-front"
-                                                    },
-                                                    "data": [
-                                                        {
-                                                            "type": "div",
-                                                            "attrs": {
-                                                                "class": "cropper"
-                                                            },
-                                                            "data": [{
-                                                                "type": "img",
-                                                                "attrs": {
-                                                                    "src": "headshots/katie.png"
-                                                                },
-                                                                "data": []
-                                                            }]
-                                                        },
-                                                        {
-                                                            "type": "div",
-                                                            "attrs": {
-                                                                "class": "profile-name"
-                                                            },
-                                                            "data": [{
-                                                                "type": "string",
-                                                                "data": "Katie Shaw"
-                                                            }]
-                                                        },
-                                                        {
-                                                            "type": "div",
-                                                            "attrs": {
-                                                                "class": "profile-title"
-                                                            },
-                                                            "data": [{
-                                                                "type": "string",
-                                                                "data": "Officer"
-                                                            }]
-                                                        }
-                                                    ]
-                                                },
-                                                {
-                                                    "type": "div",
-                                                    "attrs": {
-                                                        "class": "card-back"
-                                                    },
-                                                    "data": [
-                                                        {
-                                                            "type": "div",
-                                                            "attrs": {
-                                                                "class": "profile-name"
-                                                            },
-                                                            "data": [{
-                                                                "type": "string",
-                                                                "data": "Katie Shaw"
-                                                            }]
-                                                        },
-                                                        {
-                                                            "type": "div",
-                                                            "attrs": {
-                                                                "class": "profile-title"
-                                                            },
-                                                            "data": [{
-                                                                "type": "string",
-                                                                "data": "Officer"
-                                                            }]
-                                                        },
-                                                        {
-                                                            "type": "div",
-                                                            "attrs": {
-                                                                "class": "profile-bio"
-                                                            },
-                                                            "data": [{
-                                                                "type": "string",
-                                                                "data": "Hi! My name is Katie, and I am a sophomore studying Economics and Statistics. In my free time, I enjoy reading, drawing, catching up on sleep, and trying new food."
                                                             }]
                                                         },
                                                         {
