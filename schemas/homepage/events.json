@@ -44,13 +44,13 @@
                                 {
                                     "type": "a",
                                     "attrs": {
-                                        "href": "https://docs.google.com/forms/d/e/1FAIpQLSex6QEUlb0wOgl7VLumSxB2DIO9c09yrzVtqOqVBT-ZIE7FDA/viewform"
+                                        "href": "http://hackcmu.org/"
                                     },
                                     "data": [{
                                         "type": "img",
                                         "attrs": {
                                             "id": "hackcmu",
-                                            "src": "images/comingsoon.jpg"
+                                            "src": "images/hackcmu2021.jpeg"
                                         },
                                         "data": []
                                     }]
