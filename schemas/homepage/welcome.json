@@ -255,11 +255,14 @@
                                         "id": "emaillist"
                                     },
                                     "data": [{
-                                        "type": "string",
+                                        "type": "a",
                                         "attrs": {
                                             "href": "https://lists.andrew.cmu.edu/mailman/listinfo/acm-public?fbclid=IwAR1sbGBAbrgVAUHODFJHHLLl82wYLo-FKQeTERFhztoTXPkI8MFmEdcce3Y"
                                         },
-                                        "data": "If you'd like to be notified about events, sign up for our email list here."
+                                        "data": [{
+                                            "type": "string",
+                                            "data": "If you'd like to be notified about events, sign up for our email list here."
+                                        }]
                                     }]
                                 }
                             ]
