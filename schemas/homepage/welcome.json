@@ -252,11 +252,13 @@
                                     "type": "div",
                                     "attrs": {
                                         "class": "infotext",
-                                        "id": "emaillist",
-                                        "href": "https://lists.andrew.cmu.edu/mailman/listinfo/acm-public?fbclid=IwAR1sbGBAbrgVAUHODFJHHLLl82wYLo-FKQeTERFhztoTXPkI8MFmEdcce3Y"
+                                        "id": "emaillist"
                                     },
                                     "data": [{
                                         "type": "string",
+                                        "attrs": {
+                                            "href": "https://lists.andrew.cmu.edu/mailman/listinfo/acm-public?fbclid=IwAR1sbGBAbrgVAUHODFJHHLLl82wYLo-FKQeTERFhztoTXPkI8MFmEdcce3Y"
+                                        },
                                         "data": "If you'd like to be notified about events, sign up for our email list here."
                                     }]
                                 }
