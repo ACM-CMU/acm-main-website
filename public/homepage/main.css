@@ -323,6 +323,11 @@ body::-webkit-scrollbar {
     text-align: left;
 }
 
+a, a:hover, a:visited, a:active {
+    color: inherit;
+    text-decoration: none;
+}
+
 .we-do h2 {
     margin: 0px 0px 5px;
 }
