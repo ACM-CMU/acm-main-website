@@ -247,6 +247,18 @@
                                         "type": "string",
                                         "data": "Any questions? Email us at acm-exec@cs.cmu.edu."
                                     }]
+                                },
+                                {
+                                    "type": "div",
+                                    "attrs": {
+                                        "class": "infotext",
+                                        "id": "emaillist",
+                                        "href": "https://lists.andrew.cmu.edu/mailman/listinfo/acm-public?fbclid=IwAR1sbGBAbrgVAUHODFJHHLLl82wYLo-FKQeTERFhztoTXPkI8MFmEdcce3Y"
+                                    },
+                                    "data": [{
+                                        "type": "string",
+                                        "data": "If you'd like to be notified about events, sign up for our email list here."
+                                    }]
                                 }
                             ]
                         }
