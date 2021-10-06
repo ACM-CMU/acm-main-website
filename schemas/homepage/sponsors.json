@@ -86,22 +86,6 @@
                                 {
                                     "type": "img",
                                     "attrs": {
-                                        "id": "gm",
-                                        "src": "images/gm.jpg"
-                                    },
-                                    "data": []
-                                },
-                                {
-                                    "type": "img",
-                                    "attrs": {
-                                        "id": "google",
-                                        "src": "images/google.svg"
-                                    },
-                                    "data": []
-                                },
-                                {
-                                    "type": "img",
-                                    "attrs": {
                                         "id": "microsoft",
                                         "src": "images/microsoft.svg"
                                     },
