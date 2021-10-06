@@ -130,6 +130,22 @@
                                         "src": "images/scm.png"
                                     },
                                     "data": []
+                                },
+                                {
+                                    "type": "img",
+                                    "attrs": {
+                                        "id": "scm",
+                                        "src": "images/fb.png"
+                                    },
+                                    "data": []
+                                },
+                                {
+                                    "type": "img",
+                                    "attrs": {
+                                        "id": "scm",
+                                        "src": "images/hrt.png"
+                                    },
+                                    "data": []
                                 }
                             ]
                         }
