@@ -391,6 +391,117 @@
                                     "type": "label",
                                     "attrs": {
                                         "class": "profile",
+                                        "id": "erica"
+                                    },
+                                    "data": [
+                                        {
+                                            "type": "input",
+                                            "attrs": {
+                                                "class": "card-button",
+                                                "type": "checkbox"
+                                            },
+                                            "data": []
+                                        },
+                                        {
+                                            "type": "div",
+                                            "attrs": {
+                                                "class": "card"
+                                            },
+                                            "data": [
+                                                {
+                                                    "type": "div",
+                                                    "attrs": {
+                                                        "class": "card-front"
+                                                    },
+                                                    "data": [
+                                                        {
+                                                            "type": "div",
+                                                            "attrs": {
+                                                                "class": "cropper"
+                                                            },
+                                                            "data": [{
+                                                                "type": "img",
+                                                                "attrs": {
+                                                                    "src": "headshots/erica.jpg"
+                                                                },
+                                                                "data": []
+                                                            }]
+                                                        },
+                                                        {
+                                                            "type": "div",
+                                                            "attrs": {
+                                                                "class": "profile-name"
+                                                            },
+                                                            "data": [{
+                                                                "type": "string",
+                                                                "data": "Erica Hsu"
+                                                            }]
+                                                        },
+                                                        {
+                                                            "type": "div",
+                                                            "attrs": {
+                                                                "class": "profile-title"
+                                                            },
+                                                            "data": [{
+                                                                "type": "string",
+                                                                "data": "Membership Chair"
+                                                            }]
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "type": "div",
+                                                    "attrs": {
+                                                        "class": "card-back"
+                                                    },
+                                                    "data": [
+                                                        {
+                                                            "type": "div",
+                                                            "attrs": {
+                                                                "class": "profile-name"
+                                                            },
+                                                            "data": [{
+                                                                "type": "string",
+                                                                "data": "Erica Hsu"
+                                                            }]
+                                                        },
+                                                        {
+                                                            "type": "div",
+                                                            "attrs": {
+                                                                "class": "profile-title"
+                                                            },
+                                                            "data": [{
+                                                                "type": "string",
+                                                                "data": "Membership Chair"
+                                                            }]
+                                                        },
+                                                        {
+                                                            "type": "div",
+                                                            "attrs": {
+                                                                "class": "profile-bio"
+                                                            },
+                                                            "data": [{
+                                                                "type": "string",
+                                                                "data": "Hey there! I'm Erica, a sophomore in CS. Catch me watching the sunset from the Gates balcony or not watching the sunset."
+                                                            }]
+                                                        },
+                                                        {
+                                                            "type": "div",
+                                                            "attrs": {
+                                                                "class": "profile-links"
+                                                            },
+                                                            "data": []
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "label",
+                                    "attrs": {
+                                        "class": "profile",
                                         "id": "jonathan"
                                     },
                                     "data": [
