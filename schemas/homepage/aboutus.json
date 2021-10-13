@@ -169,117 +169,6 @@
                                     "type": "label",
                                     "attrs": {
                                         "class": "profile",
-                                        "id": "maxine"
-                                    },
-                                    "data": [
-                                        {
-                                            "type": "input",
-                                            "attrs": {
-                                                "class": "card-button",
-                                                "type": "checkbox"
-                                            },
-                                            "data": []
-                                        },
-                                        {
-                                            "type": "div",
-                                            "attrs": {
-                                                "class": "card"
-                                            },
-                                            "data": [
-                                                {
-                                                    "type": "div",
-                                                    "attrs": {
-                                                        "class": "card-front"
-                                                    },
-                                                    "data": [
-                                                        {
-                                                            "type": "div",
-                                                            "attrs": {
-                                                                "class": "cropper"
-                                                            },
-                                                            "data": [{
-                                                                "type": "img",
-                                                                "attrs": {
-                                                                    "src": "headshots/maxine.jpg"
-                                                                },
-                                                                "data": []
-                                                            }]
-                                                        },
-                                                        {
-                                                            "type": "div",
-                                                            "attrs": {
-                                                                "class": "profile-name"
-                                                            },
-                                                            "data": [{
-                                                                "type": "string",
-                                                                "data": "Maxine Lui"
-                                                            }]
-                                                        },
-                                                        {
-                                                            "type": "div",
-                                                            "attrs": {
-                                                                "class": "profile-title"
-                                                            },
-                                                            "data": [{
-                                                                "type": "string",
-                                                                "data": "Sponsors Chair"
-                                                            }]
-                                                        }
-                                                    ]
-                                                },
-                                                {
-                                                    "type": "div",
-                                                    "attrs": {
-                                                        "class": "card-back"
-                                                    },
-                                                    "data": [
-                                                        {
-                                                            "type": "div",
-                                                            "attrs": {
-                                                                "class": "profile-name"
-                                                            },
-                                                            "data": [{
-                                                                "type": "string",
-                                                                "data": "Maxine Lui"
-                                                            }]
-                                                        },
-                                                        {
-                                                            "type": "div",
-                                                            "attrs": {
-                                                                "class": "profile-title"
-                                                            },
-                                                            "data": [{
-                                                                "type": "string",
-                                                                "data": "Sponsors Chair"
-                                                            }]
-                                                        },
-                                                        {
-                                                            "type": "div",
-                                                            "attrs": {
-                                                                "class": "profile-bio"
-                                                            },
-                                                            "data": [{
-                                                                "type": "string",
-                                                                "data": "I’m Maxine and I’m a 2nd year studying Comp Sci! I like eating pan fried dumplings and making jokes. For example, what’d they call a cow with no udders? An udder failure!"
-                                                            }]
-                                                        },
-                                                        {
-                                                            "type": "div",
-                                                            "attrs": {
-                                                                "class": "profile-links"
-                                                            },
-                                                            "data": []
-                                                        }
-                                                    ]
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                },
-                                {
-                                    "type": "label",
-                                    "attrs": {
-                                        "class": "profile",
                                         "id": "michelle"
                                     },
                                     "data": [
@@ -372,6 +261,117 @@
                                                             "data": [{
                                                                 "type": "string",
                                                                 "data": "Hi! I'm Michelle, a sophomore studying CS and doing research in Comp Bio. I enjoy a wide variety of activities in my free time, like sleeping, eating and sitting. In the future I'd like to remove all snakes (the animal)."
+                                                            }]
+                                                        },
+                                                        {
+                                                            "type": "div",
+                                                            "attrs": {
+                                                                "class": "profile-links"
+                                                            },
+                                                            "data": []
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "label",
+                                    "attrs": {
+                                        "class": "profile",
+                                        "id": "maxine"
+                                    },
+                                    "data": [
+                                        {
+                                            "type": "input",
+                                            "attrs": {
+                                                "class": "card-button",
+                                                "type": "checkbox"
+                                            },
+                                            "data": []
+                                        },
+                                        {
+                                            "type": "div",
+                                            "attrs": {
+                                                "class": "card"
+                                            },
+                                            "data": [
+                                                {
+                                                    "type": "div",
+                                                    "attrs": {
+                                                        "class": "card-front"
+                                                    },
+                                                    "data": [
+                                                        {
+                                                            "type": "div",
+                                                            "attrs": {
+                                                                "class": "cropper"
+                                                            },
+                                                            "data": [{
+                                                                "type": "img",
+                                                                "attrs": {
+                                                                    "src": "headshots/maxine.jpg"
+                                                                },
+                                                                "data": []
+                                                            }]
+                                                        },
+                                                        {
+                                                            "type": "div",
+                                                            "attrs": {
+                                                                "class": "profile-name"
+                                                            },
+                                                            "data": [{
+                                                                "type": "string",
+                                                                "data": "Maxine Lui"
+                                                            }]
+                                                        },
+                                                        {
+                                                            "type": "div",
+                                                            "attrs": {
+                                                                "class": "profile-title"
+                                                            },
+                                                            "data": [{
+                                                                "type": "string",
+                                                                "data": "Sponsors Chair"
+                                                            }]
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "type": "div",
+                                                    "attrs": {
+                                                        "class": "card-back"
+                                                    },
+                                                    "data": [
+                                                        {
+                                                            "type": "div",
+                                                            "attrs": {
+                                                                "class": "profile-name"
+                                                            },
+                                                            "data": [{
+                                                                "type": "string",
+                                                                "data": "Maxine Lui"
+                                                            }]
+                                                        },
+                                                        {
+                                                            "type": "div",
+                                                            "attrs": {
+                                                                "class": "profile-title"
+                                                            },
+                                                            "data": [{
+                                                                "type": "string",
+                                                                "data": "Sponsors Chair"
+                                                            }]
+                                                        },
+                                                        {
+                                                            "type": "div",
+                                                            "attrs": {
+                                                                "class": "profile-bio"
+                                                            },
+                                                            "data": [{
+                                                                "type": "string",
+                                                                "data": "I’m Maxine and I’m a 2nd year studying Comp Sci! I like eating pan fried dumplings and making jokes. For example, what’d they call a cow with no udders? An udder failure!"
                                                             }]
                                                         },
                                                         {
