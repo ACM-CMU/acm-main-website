@@ -62,8 +62,8 @@
                                 {
                                     "type": "img",
                                     "attrs": {
-                                        "id": "asml",
-                                        "src": "images/asml.svg"
+                                        "id": "js",
+                                        "src": "images/js.png"
                                     },
                                     "data": []
                                 },
@@ -78,24 +78,8 @@
                                 {
                                     "type": "img",
                                     "attrs": {
-                                        "id": "deshaw",
-                                        "src": "images/deshaw.svg"
-                                    },
-                                    "data": []
-                                },
-                                {
-                                    "type": "img",
-                                    "attrs": {
                                         "id": "microsoft",
                                         "src": "images/microsoft.svg"
-                                    },
-                                    "data": []
-                                },
-                                {
-                                    "type": "img",
-                                    "attrs": {
-                                        "id": "riotgames",
-                                        "src": "images/riotgames.svg"
                                     },
                                     "data": []
                                 },
