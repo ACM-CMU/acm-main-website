@@ -102,15 +102,15 @@
                                 {
                                     "type": "img",
                                     "attrs": {
-                                        "id": "scm",
-                                        "src": "images/fb.png"
+                                        "id": "meta",
+                                        "src": "images/meta.png"
                                     },
                                     "data": []
                                 },
                                 {
                                     "type": "img",
                                     "attrs": {
-                                        "id": "scm",
+                                        "id": "hrt",
                                         "src": "images/hrt.png"
                                     },
                                     "data": []

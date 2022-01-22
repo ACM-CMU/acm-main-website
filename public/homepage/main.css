@@ -415,6 +415,12 @@ img#sandia {
 img#scm {
     height: 11vh;
 }
+img#meta {
+    height: 13vh;
+}
+img#hrt {
+    height: 11vh;
+}
 
 #events-grid img {
     padding: 15px 30px;
