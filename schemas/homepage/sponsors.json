@@ -47,6 +47,51 @@
                         {
                             "type": "div",
                             "attrs": {
+                                "class": "plat-tier-label"
+                            },
+                            "data": [{
+                                "type": "string",
+                                "data": "Platinum Tier"
+                            }]
+                        },
+                        {
+                            "type": "div",
+                            "attrs": {
+                                "class": "grid",
+                                "id": "logo-grid"
+                            },
+                            "data": [
+                                {
+                                    "type": "img",
+                                    "attrs": {
+                                        "id": "citadel",
+                                        "src": "images/citadel.png"
+                                    },
+                                    "data": []
+                                }, 
+                                {
+                                    "type": "img",
+                                    "attrs": {
+                                        "id": "microsoft",
+                                        "src": "images/microsoft.svg"
+                                    },
+                                    "data": []
+                                }
+                            ]
+                        },
+                        {
+                            "type": "div",
+                            "attrs": {
+                                "class": "gold-tier-label"
+                            },
+                            "data": [{
+                                "type": "string",
+                                "data": "Gold Tier"
+                            }]
+                        },
+                        {
+                            "type": "div",
+                            "attrs": {
                                 "class": "grid",
                                 "id": "logo-grid"
                             },
@@ -58,15 +103,7 @@
                                         "src": "images/aptiv.svg"
                                     },
                                     "data": []
-                                },
-                                {
-                                    "type": "img",
-                                    "attrs": {
-                                        "id": "js",
-                                        "src": "images/js.png"
-                                    },
-                                    "data": []
-                                },
+                                }, 
                                 {
                                     "type": "img",
                                     "attrs": {
@@ -78,40 +115,71 @@
                                 {
                                     "type": "img",
                                     "attrs": {
-                                        "id": "microsoft",
-                                        "src": "images/microsoft.svg"
+                                        "id": "hrt",
+                                        "src": "images/hrt.png"
                                     },
                                     "data": []
-                                },
+                                }, 
                                 {
                                     "type": "img",
                                     "attrs": {
-                                        "id": "sandia",
-                                        "src": "images/sandia.svg"
+                                        "id": "js",
+                                        "src": "images/js.png"
                                     },
                                     "data": []
-                                },
+                                }
+                            ]
+                        }, 
+                        {
+                            "type": "div",
+                            "attrs": {
+                                "class": "silver-tier-label"
+                            },
+                            "data": [{
+                                "type": "string",
+                                "data": "Silver Tier"
+                            }]
+                        },
+                        {
+                            "type": "div",
+                            "attrs": {
+                                "class": "grid",
+                                "id": "logo-grid"
+                            },
+                            "data": [
+                                {
+                                    "type": "img",
+                                    "attrs": {
+                                        "id": "omc",
+                                        "src": "images/omc.png"
+                                    },
+                                    "data": []
+                                }
+                            
+                            ]
+                        }, 
+                        {
+                            "type": "div",
+                            "attrs": {
+                                "class": "bronze-tier-label"
+                            },
+                            "data": [{
+                                "type": "string",
+                                "data": "Bronze Tier"
+                            }]
+                        },
+                        {
+                            "type": "div",
+                            "attrs": {
+                                "class": "grid",
+                                "id": "logo-grid"
+                            },
+                            "data": [
                                 {
                                     "type": "img",
                                     "attrs": {
                                         "id": "scm",
                                         "src": "images/scm.png"
-                                    },
-                                    "data": []
-                                },
-                                {
-                                    "type": "img",
-                                    "attrs": {
-                                        "id": "meta",
-                                        "src": "images/meta.png"
-                                    },
-                                    "data": []
-                                },
-                                {
-                                    "type": "img",
-                                    "attrs": {
-                                        "id": "hrt",
-                                        "src": "images/hrt.png"
                                     },
                                     "data": []
                                 }

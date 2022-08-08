@@ -43,16 +43,32 @@
                             "data": [
                                 {
                                     "type": "a",
-                                    "attrs": {
-                                        "href": "http://hackcmu.org/"
-                                    },
                                     "data": [{
-                                        "type": "img",
+                                        "type": "string",
                                         "attrs": {
-                                            "id": "hackcmu",
-                                            "src": "images/hackcmu2021.PNG"
+                                            "id": "hackcmu"
                                         },
-                                        "data": []
+                                        "data": "HackCMU 2022 - Coming Soon!"
+                                    }]
+                                }, 
+                                {
+                                    "type": "a",
+                                    "data": [{
+                                        "type": "string",
+                                        "attrs": {
+                                            "id": "awap"
+                                        },
+                                        "data": "Algorithms With a Purpose 2023 - Coming Soon!"
+                                    }]
+                                },
+                                {
+                                    "type": "a",
+                                    "data": [{
+                                        "type": "string",
+                                        "attrs": {
+                                            "id": "hackcmu"
+                                        },
+                                        "data": "HackBerry Pi 2023 - Coming Soon!"
                                     }]
                                 }
                             ]

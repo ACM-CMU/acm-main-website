@@ -336,6 +336,27 @@ a, a:hover, a:visited, a:active {
     margin-right: 10px;
 }
 
+.plat-tier-label {
+    font-size: 30px;
+    color: hotpink;
+    margin-top: 5vh;
+}
+
+.gold-tier-label {
+    font-size: 30px;
+    color: hotpink;
+}
+
+.silver-tier-label {
+    font-size: 30px;
+    color: hotpink;
+}
+
+.bronze-tier-label {
+    font-size: 30px;
+    color: hotpink;
+}
+
 .grid {
     margin-top: 3vh;
     display: flex;
@@ -400,6 +421,9 @@ img#nutanix {
     height: 3vh;
 }
 
+img#omc {
+    height: 8vh;
+}
 img#oracle {
     height: 4vh;
 }
