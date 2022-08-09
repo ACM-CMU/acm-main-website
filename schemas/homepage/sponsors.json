@@ -47,41 +47,6 @@
                         {
                             "type": "div",
                             "attrs": {
-                                "class": "plat-tier-label"
-                            },
-                            "data": [{
-                                "type": "string",
-                                "data": "Platinum Tier"
-                            }]
-                        },
-                        {
-                            "type": "div",
-                            "attrs": {
-                                "class": "grid",
-                                "id": "logo-grid"
-                            },
-                            "data": [
-                                {
-                                    "type": "img",
-                                    "attrs": {
-                                        "id": "citadel",
-                                        "src": "images/citadel.png"
-                                    },
-                                    "data": []
-                                }, 
-                                {
-                                    "type": "img",
-                                    "attrs": {
-                                        "id": "microsoft",
-                                        "src": "images/microsoft.svg"
-                                    },
-                                    "data": []
-                                }
-                            ]
-                        },
-                        {
-                            "type": "div",
-                            "attrs": {
                                 "class": "gold-tier-label"
                             },
                             "data": [{
@@ -115,6 +80,14 @@
                                 {
                                     "type": "img",
                                     "attrs": {
+                                        "id": "citadel",
+                                        "src": "images/citadel.png"
+                                    },
+                                    "data": []
+                                }, 
+                                {
+                                    "type": "img",
+                                    "attrs": {
                                         "id": "hrt",
                                         "src": "images/hrt.png"
                                     },
@@ -125,6 +98,14 @@
                                     "attrs": {
                                         "id": "js",
                                         "src": "images/js.png"
+                                    },
+                                    "data": []
+                                }, 
+                                {
+                                    "type": "img",
+                                    "attrs": {
+                                        "id": "microsoft",
+                                        "src": "images/microsoft.svg"
                                     },
                                     "data": []
                                 }

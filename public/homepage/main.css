@@ -336,15 +336,10 @@ a, a:hover, a:visited, a:active {
     margin-right: 10px;
 }
 
-.plat-tier-label {
-    font-size: 30px;
-    color: hotpink;
-    margin-top: 5vh;
-}
-
 .gold-tier-label {
     font-size: 30px;
     color: hotpink;
+    margin-top: 5vh;
 }
 
 .silver-tier-label {
