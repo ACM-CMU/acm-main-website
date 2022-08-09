@@ -44,132 +44,7 @@
                                     "type": "label",
                                     "attrs": {
                                         "class": "profile",
-                                        "id": "jasmine"
-                                    },
-                                    "data": [
-                                        {
-                                            "type": "input",
-                                            "attrs": {
-                                                "class": "card-button",
-                                                "type": "checkbox"
-                                            },
-                                            "data": []
-                                        },
-                                        {
-                                            "type": "div",
-                                            "attrs": {
-                                                "class": "card"
-                                            },
-                                            "data": [
-                                                {
-                                                    "type": "div",
-                                                    "attrs": {
-                                                        "class": "card-front"
-                                                    },
-                                                    "data": [
-                                                        {
-                                                            "type": "div",
-                                                            "attrs": {
-                                                                "class": "cropper"
-                                                            },
-                                                            "data": [{
-                                                                "type": "img",
-                                                                "attrs": {
-                                                                    "src": "headshots/jasmine.jpg"
-                                                                },
-                                                                "data": []
-                                                            }]
-                                                        },
-                                                        {
-                                                            "type": "div",
-                                                            "attrs": {
-                                                                "class": "profile-name"
-                                                            },
-                                                            "data": [{
-                                                                "type": "string",
-                                                                "data": "Jasmine Cheng"
-                                                            }]
-                                                        },
-                                                        {
-                                                            "type": "div",
-                                                            "attrs": {
-                                                                "class": "profile-title"
-                                                            },
-                                                            "data": [{
-                                                                "type": "string",
-                                                                "data": "President"
-                                                            }]
-                                                        }
-                                                    ]
-                                                },
-                                                {
-                                                    "type": "div",
-                                                    "attrs": {
-                                                        "class": "card-back"
-                                                    },
-                                                    "data": [
-                                                        {
-                                                            "type": "div",
-                                                            "attrs": {
-                                                                "class": "profile-name"
-                                                            },
-                                                            "data": [{
-                                                                "type": "string",
-                                                                "data": "Jasmine Cheng"
-                                                            }]
-                                                        },
-                                                        {
-                                                            "type": "div",
-                                                            "attrs": {
-                                                                "class": "profile-title"
-                                                            },
-                                                            "data": [{
-                                                                "type": "string",
-                                                                "data": "President"
-                                                            }]
-                                                        },
-                                                        {
-                                                            "type": "div",
-                                                            "attrs": {
-                                                                "class": "profile-bio"
-                                                            },
-                                                            "data": [{
-                                                                "type": "string",
-                                                                "data": "Hi there, I'm Jasmine! I'm a senior studying Computer Science and Robotics. When I'm not in the Robotics Education Lab, you can find me at a thrift store, biking around Pittsburgh, or painting."
-                                                            }]
-                                                        },
-                                                        {
-                                                            "type": "div",
-                                                            "attrs": {
-                                                                "class": "profile-links"
-                                                            },
-                                                            "data": [{
-                                                                "type": "a",
-                                                                "attrs": {
-                                                                    "class": "linkedin",
-                                                                    "href": "https://www.linkedin.com/in/jasmine-a-cheng/",
-                                                                    "target": "_blank"
-                                                                },
-                                                                "data": [{
-                                                                    "type": "img",
-                                                                    "attrs": {
-                                                                        "src": "logos/linkedin.png"
-                                                                    },
-                                                                    "data": []
-                                                                }]
-                                                            }]
-                                                        }
-                                                    ]
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                },
-                                {
-                                    "type": "label",
-                                    "attrs": {
-                                        "class": "profile",
-                                        "id": "michelle"
+                                        "id": "michellez"
                                     },
                                     "data": [
                                         {
@@ -222,7 +97,7 @@
                                                             },
                                                             "data": [{
                                                                 "type": "string",
-                                                                "data": "VP"
+                                                                "data": "President"
                                                             }]
                                                         }
                                                     ]
@@ -250,6 +125,131 @@
                                                             },
                                                             "data": [{
                                                                 "type": "string",
+                                                                "data": "President"
+                                                            }]
+                                                        },
+                                                        {
+                                                            "type": "div",
+                                                            "attrs": {
+                                                                "class": "profile-bio"
+                                                            },
+                                                            "data": [{
+                                                                "type": "string",
+                                                                "data": "Hi! I'm Michelle, a junior studying CS who is a 15150.5 TA (15150 + 15151). I enjoy a wide variety of activities in my free time, like sleeping, eating and sitting. In the future I'd like to remove all snakes (the animal), but with technology, and not my hands."
+                                                            }]
+                                                        },
+                                                        {
+                                                            "type": "div",
+                                                            "attrs": {
+                                                                "class": "profile-links"
+                                                            },
+                                                            "data": [{
+                                                                "type": "a",
+                                                                "attrs": {
+                                                                    "class": "linkedin",
+                                                                    "href": "https://www.linkedin.com/in/michelle-zhu-bb2650183",
+                                                                    "target": "_blank"
+                                                                },
+                                                                "data": [{
+                                                                    "type": "img",
+                                                                    "attrs": {
+                                                                        "src": "logos/linkedin.png"
+                                                                    },
+                                                                    "data": []
+                                                                }]
+                                                            }]
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "label",
+                                    "attrs": {
+                                        "class": "profile",
+                                        "id": "jocelyn"
+                                    },
+                                    "data": [
+                                        {
+                                            "type": "input",
+                                            "attrs": {
+                                                "class": "card-button",
+                                                "type": "checkbox"
+                                            },
+                                            "data": []
+                                        },
+                                        {
+                                            "type": "div",
+                                            "attrs": {
+                                                "class": "card"
+                                            },
+                                            "data": [
+                                                {
+                                                    "type": "div",
+                                                    "attrs": {
+                                                        "class": "card-front"
+                                                    },
+                                                    "data": [
+                                                        {
+                                                            "type": "div",
+                                                            "attrs": {
+                                                                "class": "cropper"
+                                                            },
+                                                            "data": [{
+                                                                "type": "img",
+                                                                "attrs": {
+                                                                    "src": "headshots/jocelyn.jpg"
+                                                                },
+                                                                "data": []
+                                                            }]
+                                                        },
+                                                        {
+                                                            "type": "div",
+                                                            "attrs": {
+                                                                "class": "profile-name"
+                                                            },
+                                                            "data": [{
+                                                                "type": "string",
+                                                                "data": "Jocelyn Tseng"
+                                                            }]
+                                                        },
+                                                        {
+                                                            "type": "div",
+                                                            "attrs": {
+                                                                "class": "profile-title"
+                                                            },
+                                                            "data": [{
+                                                                "type": "string",
+                                                                "data": "VP"
+                                                            }]
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "type": "div",
+                                                    "attrs": {
+                                                        "class": "card-back"
+                                                    },
+                                                    "data": [
+                                                        {
+                                                            "type": "div",
+                                                            "attrs": {
+                                                                "class": "profile-name"
+                                                            },
+                                                            "data": [{
+                                                                "type": "string",
+                                                                "data": "Jocelyn Tseng"
+                                                            }]
+                                                        },
+                                                        {
+                                                            "type": "div",
+                                                            "attrs": {
+                                                                "class": "profile-title"
+                                                            },
+                                                            "data": [{
+                                                                "type": "string",
                                                                 "data": "VP"
                                                             }]
                                                         },
@@ -260,7 +260,7 @@
                                                             },
                                                             "data": [{
                                                                 "type": "string",
-                                                                "data": "Hi! I'm Michelle, a sophomore studying CS and doing research in Comp Bio. I enjoy a wide variety of activities in my free time, like sleeping, eating and sitting. In the future I'd like to remove all snakes (the animal)."
+                                                                "data": "Hello! I'm Jocelyn, a junior studying Computer Science and concentrating in Machine Learning! At a given point in time, you can find me in Gates, sleeping, running outdoors, or eating ramen or pasta."
                                                             }]
                                                         },
                                                         {
@@ -268,229 +268,21 @@
                                                             "attrs": {
                                                                 "class": "profile-links"
                                                             },
-                                                            "data": []
-                                                        }
-                                                    ]
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                },
-                                {
-                                    "type": "label",
-                                    "attrs": {
-                                        "class": "profile",
-                                        "id": "maxine"
-                                    },
-                                    "data": [
-                                        {
-                                            "type": "input",
-                                            "attrs": {
-                                                "class": "card-button",
-                                                "type": "checkbox"
-                                            },
-                                            "data": []
-                                        },
-                                        {
-                                            "type": "div",
-                                            "attrs": {
-                                                "class": "card"
-                                            },
-                                            "data": [
-                                                {
-                                                    "type": "div",
-                                                    "attrs": {
-                                                        "class": "card-front"
-                                                    },
-                                                    "data": [
-                                                        {
-                                                            "type": "div",
-                                                            "attrs": {
-                                                                "class": "cropper"
-                                                            },
                                                             "data": [{
-                                                                "type": "img",
+                                                                "type": "a",
                                                                 "attrs": {
-                                                                    "src": "headshots/maxine.jpg"
+                                                                    "class": "linkedin",
+                                                                    "href": "https://www.linkedin.com/in/jocelyntseng",
+                                                                    "target": "_blank"
                                                                 },
-                                                                "data": []
+                                                                "data": [{
+                                                                    "type": "img",
+                                                                    "attrs": {
+                                                                        "src": "logos/linkedin.png"
+                                                                    },
+                                                                    "data": []
+                                                                }]
                                                             }]
-                                                        },
-                                                        {
-                                                            "type": "div",
-                                                            "attrs": {
-                                                                "class": "profile-name"
-                                                            },
-                                                            "data": [{
-                                                                "type": "string",
-                                                                "data": "Maxine Lui"
-                                                            }]
-                                                        },
-                                                        {
-                                                            "type": "div",
-                                                            "attrs": {
-                                                                "class": "profile-title"
-                                                            },
-                                                            "data": [{
-                                                                "type": "string",
-                                                                "data": "Sponsors Chair"
-                                                            }]
-                                                        }
-                                                    ]
-                                                },
-                                                {
-                                                    "type": "div",
-                                                    "attrs": {
-                                                        "class": "card-back"
-                                                    },
-                                                    "data": [
-                                                        {
-                                                            "type": "div",
-                                                            "attrs": {
-                                                                "class": "profile-name"
-                                                            },
-                                                            "data": [{
-                                                                "type": "string",
-                                                                "data": "Maxine Lui"
-                                                            }]
-                                                        },
-                                                        {
-                                                            "type": "div",
-                                                            "attrs": {
-                                                                "class": "profile-title"
-                                                            },
-                                                            "data": [{
-                                                                "type": "string",
-                                                                "data": "Sponsors Chair"
-                                                            }]
-                                                        },
-                                                        {
-                                                            "type": "div",
-                                                            "attrs": {
-                                                                "class": "profile-bio"
-                                                            },
-                                                            "data": [{
-                                                                "type": "string",
-                                                                "data": "I’m Maxine and I’m a 2nd year studying Comp Sci! I like eating pan fried dumplings and making jokes. For example, what’d they call a cow with no udders? An udder failure!"
-                                                            }]
-                                                        },
-                                                        {
-                                                            "type": "div",
-                                                            "attrs": {
-                                                                "class": "profile-links"
-                                                            },
-                                                            "data": []
-                                                        }
-                                                    ]
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                },
-                                {
-                                    "type": "label",
-                                    "attrs": {
-                                        "class": "profile",
-                                        "id": "erica"
-                                    },
-                                    "data": [
-                                        {
-                                            "type": "input",
-                                            "attrs": {
-                                                "class": "card-button",
-                                                "type": "checkbox"
-                                            },
-                                            "data": []
-                                        },
-                                        {
-                                            "type": "div",
-                                            "attrs": {
-                                                "class": "card"
-                                            },
-                                            "data": [
-                                                {
-                                                    "type": "div",
-                                                    "attrs": {
-                                                        "class": "card-front"
-                                                    },
-                                                    "data": [
-                                                        {
-                                                            "type": "div",
-                                                            "attrs": {
-                                                                "class": "cropper"
-                                                            },
-                                                            "data": [{
-                                                                "type": "img",
-                                                                "attrs": {
-                                                                    "src": "headshots/erica.jpg"
-                                                                },
-                                                                "data": []
-                                                            }]
-                                                        },
-                                                        {
-                                                            "type": "div",
-                                                            "attrs": {
-                                                                "class": "profile-name"
-                                                            },
-                                                            "data": [{
-                                                                "type": "string",
-                                                                "data": "Erica Hsu"
-                                                            }]
-                                                        },
-                                                        {
-                                                            "type": "div",
-                                                            "attrs": {
-                                                                "class": "profile-title"
-                                                            },
-                                                            "data": [{
-                                                                "type": "string",
-                                                                "data": "Membership Chair"
-                                                            }]
-                                                        }
-                                                    ]
-                                                },
-                                                {
-                                                    "type": "div",
-                                                    "attrs": {
-                                                        "class": "card-back"
-                                                    },
-                                                    "data": [
-                                                        {
-                                                            "type": "div",
-                                                            "attrs": {
-                                                                "class": "profile-name"
-                                                            },
-                                                            "data": [{
-                                                                "type": "string",
-                                                                "data": "Erica Hsu"
-                                                            }]
-                                                        },
-                                                        {
-                                                            "type": "div",
-                                                            "attrs": {
-                                                                "class": "profile-title"
-                                                            },
-                                                            "data": [{
-                                                                "type": "string",
-                                                                "data": "Membership Chair"
-                                                            }]
-                                                        },
-                                                        {
-                                                            "type": "div",
-                                                            "attrs": {
-                                                                "class": "profile-bio"
-                                                            },
-                                                            "data": [{
-                                                                "type": "string",
-                                                                "data": "Hey there! I'm Erica, a sophomore in CS. Catch me watching the sunset from the Gates balcony or not watching the sunset."
-                                                            }]
-                                                        },
-                                                        {
-                                                            "type": "div",
-                                                            "attrs": {
-                                                                "class": "profile-links"
-                                                            },
-                                                            "data": []
                                                         }
                                                     ]
                                                 }
@@ -555,7 +347,7 @@
                                                             },
                                                             "data": [{
                                                                 "type": "string",
-                                                                "data": "Technical Infrastructure Officer"
+                                                                "data": "Technical Lead"
                                                             }]
                                                         }
                                                     ]
@@ -583,7 +375,7 @@
                                                             },
                                                             "data": [{
                                                                 "type": "string",
-                                                                "data": "Technical Infrastructure Officer"
+                                                                "data": "Technical Lead"
                                                             }]
                                                         },
                                                         {
@@ -593,7 +385,7 @@
                                                             },
                                                             "data": [{
                                                                 "type": "string",
-                                                                "data": "Hello! My name is Jonathan Chiu, and I'm currently a sophomore in SCS. If I'm not collapsed in some comfy chair in Gates, you can probably find me at El Gallo De Oro, the best place to eat on campus."
+                                                                "data": "Hello! My name is Jonathan Chiu, and I'm currently a junior in SCS. If I'm not collapsed in some comfy chair in Gates, you can probably find me at El Gallo De Oro, the best place to eat on campus."
                                                             }]
                                                         },
                                                         {
@@ -601,7 +393,21 @@
                                                             "attrs": {
                                                                 "class": "profile-links"
                                                             },
-                                                            "data": []
+                                                            "data": [{
+                                                                "type": "a",
+                                                                "attrs": {
+                                                                    "class": "linkedin",
+                                                                    "href": "https://www.linkedin.com/in/jonathan-chiu-32b65815b/",
+                                                                    "target": "_blank"
+                                                                },
+                                                                "data": [{
+                                                                    "type": "img",
+                                                                    "attrs": {
+                                                                        "src": "logos/linkedin.png"
+                                                                    },
+                                                                    "data": []
+                                                                }]
+                                                            }]
                                                         }
                                                     ]
                                                 }
@@ -613,7 +419,7 @@
                                     "type": "label",
                                     "attrs": {
                                         "class": "profile",
-                                        "id": "elaine"
+                                        "id": "howard"
                                     },
                                     "data": [
                                         {
@@ -644,7 +450,7 @@
                                                             "data": [{
                                                                 "type": "img",
                                                                 "attrs": {
-                                                                    "src": "headshots/elaine.jpg"
+                                                                    "src": "headshots/howard.jpeg"
                                                                 },
                                                                 "data": []
                                                             }]
@@ -656,7 +462,7 @@
                                                             },
                                                             "data": [{
                                                                 "type": "string",
-                                                                "data": "Elaine Wang"
+                                                                "data": "Howard Tang"
                                                             }]
                                                         },
                                                         {
@@ -666,7 +472,7 @@
                                                             },
                                                             "data": [{
                                                                 "type": "string",
-                                                                "data": "Social & Public Relations Chair"
+                                                                "data": "Treasurer & Sponsors Chair"
                                                             }]
                                                         }
                                                     ]
@@ -684,7 +490,7 @@
                                                             },
                                                             "data": [{
                                                                 "type": "string",
-                                                                "data": "Elaine Wang"
+                                                                "data": "Howard Tang"
                                                             }]
                                                         },
                                                         {
@@ -694,7 +500,7 @@
                                                             },
                                                             "data": [{
                                                                 "type": "string",
-                                                                "data": "Social & Public Relations Chair"
+                                                                "data": "Treasurer & Sponsors Chair"
                                                             }]
                                                         },
                                                         {
@@ -704,7 +510,7 @@
                                                             },
                                                             "data": [{
                                                                 "type": "string",
-                                                                "data": "Hi! My name is Elaine, and I am a sophomore studying Electrical and Computer Engineering. In my free time, I like to watch tv shows, crochet, and making matcha lattes. I also really enjoy finding good music and my boba order is a honey lemon green tea with lychee jelly."
+                                                                "data": "Hello! I'm Howard, a junior studying math and CS. I am an enjoyer of speech of the peculiar variety and lurking in Gates whilst acquiring pain from sets of the P variety."
                                                             }]
                                                         },
                                                         {
@@ -712,7 +518,21 @@
                                                             "attrs": {
                                                                 "class": "profile-links"
                                                             },
-                                                            "data": []
+                                                            "data": [{
+                                                                "type": "a",
+                                                                "attrs": {
+                                                                    "class": "linkedin",
+                                                                    "href": "https://www.linkedin.com/in/howard-tang-5b66561b0/",
+                                                                    "target": "_blank"
+                                                                },
+                                                                "data": [{
+                                                                    "type": "img",
+                                                                    "attrs": {
+                                                                        "src": "logos/linkedin.png"
+                                                                    },
+                                                                    "data": []
+                                                                }]
+                                                            }]
                                                         }
                                                     ]
                                                 }
@@ -724,7 +544,7 @@
                                     "type": "label",
                                     "attrs": {
                                         "class": "profile",
-                                        "id": "katie"
+                                        "id": "erica"
                                     },
                                     "data": [
                                         {
@@ -755,7 +575,7 @@
                                                             "data": [{
                                                                 "type": "img",
                                                                 "attrs": {
-                                                                    "src": "headshots/katie.png"
+                                                                    "src": "headshots/erica.jpg"
                                                                 },
                                                                 "data": []
                                                             }]
@@ -767,7 +587,7 @@
                                                             },
                                                             "data": [{
                                                                 "type": "string",
-                                                                "data": "Katie Shaw"
+                                                                "data": "Erica Hsu"
                                                             }]
                                                         },
                                                         {
@@ -777,7 +597,7 @@
                                                             },
                                                             "data": [{
                                                                 "type": "string",
-                                                                "data": "Creative Director"
+                                                                "data": "Secretary"
                                                             }]
                                                         }
                                                     ]
@@ -795,7 +615,7 @@
                                                             },
                                                             "data": [{
                                                                 "type": "string",
-                                                                "data": "Katie Shaw"
+                                                                "data": "Erica Hsu"
                                                             }]
                                                         },
                                                         {
@@ -805,7 +625,7 @@
                                                             },
                                                             "data": [{
                                                                 "type": "string",
-                                                                "data": "Creative Director"
+                                                                "data": "Secretary"
                                                             }]
                                                         },
                                                         {
@@ -815,7 +635,7 @@
                                                             },
                                                             "data": [{
                                                                 "type": "string",
-                                                                "data": "Hi! My name is Katie, and I am a sophomore studying Economics and Statistics. In my free time, I enjoy reading, drawing, catching up on sleep, and trying new food."
+                                                                "data": "Hey there! I'm Erica, a sophomore in CS. Catch me watching the sunset from the Gates balcony or not watching the sunset."
                                                             }]
                                                         },
                                                         {
@@ -835,7 +655,7 @@
                                     "type": "label",
                                     "attrs": {
                                         "class": "profile",
-                                        "id": "isaac"
+                                        "id": "michellel"
                                     },
                                     "data": [
                                         {
@@ -866,7 +686,7 @@
                                                             "data": [{
                                                                 "type": "img",
                                                                 "attrs": {
-                                                                    "src": "headshots/isaac.png"
+                                                                    "src": "headshots/jocelyn.jpg"
                                                                 },
                                                                 "data": []
                                                             }]
@@ -878,7 +698,7 @@
                                                             },
                                                             "data": [{
                                                                 "type": "string",
-                                                                "data": "Isaac Song"
+                                                                "data": "Michelle Li"
                                                             }]
                                                         },
                                                         {
@@ -888,7 +708,7 @@
                                                             },
                                                             "data": [{
                                                                 "type": "string",
-                                                                "data": "Officer"
+                                                                "data": "Public Relations Chair"
                                                             }]
                                                         }
                                                     ]
@@ -906,7 +726,7 @@
                                                             },
                                                             "data": [{
                                                                 "type": "string",
-                                                                "data": "Isaac Song"
+                                                                "data": "Michelle Li"
                                                             }]
                                                         },
                                                         {
@@ -916,7 +736,7 @@
                                                             },
                                                             "data": [{
                                                                 "type": "string",
-                                                                "data": "Officer"
+                                                                "data": "Public Relations Chair"
                                                             }]
                                                         },
                                                         {
@@ -926,7 +746,465 @@
                                                             },
                                                             "data": [{
                                                                 "type": "string",
-                                                                "data": "Hiya, I'm Isaac, and I'm a sophomore studying CS. As of now, I spend most of my time suffering in 251 but I usually spend the rest of my time hanging out / sleeping / going to church / playing fighting games."
+                                                                "data": "I am Michelle Li."
+                                                            }]
+                                                        },
+                                                        {
+                                                            "type": "div",
+                                                            "attrs": {
+                                                                "class": "profile-links"
+                                                            },
+                                                            "data": []
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "label",
+                                    "attrs": {
+                                        "class": "profile",
+                                        "id": "stephanie"
+                                    },
+                                    "data": [
+                                        {
+                                            "type": "input",
+                                            "attrs": {
+                                                "class": "card-button",
+                                                "type": "checkbox"
+                                            },
+                                            "data": []
+                                        },
+                                        {
+                                            "type": "div",
+                                            "attrs": {
+                                                "class": "card"
+                                            },
+                                            "data": [
+                                                {
+                                                    "type": "div",
+                                                    "attrs": {
+                                                        "class": "card-front"
+                                                    },
+                                                    "data": [
+                                                        {
+                                                            "type": "div",
+                                                            "attrs": {
+                                                                "class": "cropper"
+                                                            },
+                                                            "data": [{
+                                                                "type": "img",
+                                                                "attrs": {
+                                                                    "src": "headshots/jocelyn.jpg"
+                                                                },
+                                                                "data": []
+                                                            }]
+                                                        },
+                                                        {
+                                                            "type": "div",
+                                                            "attrs": {
+                                                                "class": "profile-name"
+                                                            },
+                                                            "data": [{
+                                                                "type": "string",
+                                                                "data": "Stephanie Guan"
+                                                            }]
+                                                        },
+                                                        {
+                                                            "type": "div",
+                                                            "attrs": {
+                                                                "class": "profile-title"
+                                                            },
+                                                            "data": [{
+                                                                "type": "string",
+                                                                "data": "Design Chair"
+                                                            }]
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "type": "div",
+                                                    "attrs": {
+                                                        "class": "card-back"
+                                                    },
+                                                    "data": [
+                                                        {
+                                                            "type": "div",
+                                                            "attrs": {
+                                                                "class": "profile-name"
+                                                            },
+                                                            "data": [{
+                                                                "type": "string",
+                                                                "data": "Stephanie Guan"
+                                                            }]
+                                                        },
+                                                        {
+                                                            "type": "div",
+                                                            "attrs": {
+                                                                "class": "profile-title"
+                                                            },
+                                                            "data": [{
+                                                                "type": "string",
+                                                                "data": "Design Chair"
+                                                            }]
+                                                        },
+                                                        {
+                                                            "type": "div",
+                                                            "attrs": {
+                                                                "class": "profile-bio"
+                                                            },
+                                                            "data": [{
+                                                                "type": "string",
+                                                                "data": "I am Stephanie Guan."
+                                                            }]
+                                                        },
+                                                        {
+                                                            "type": "div",
+                                                            "attrs": {
+                                                                "class": "profile-links"
+                                                            },
+                                                            "data": []
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "label",
+                                    "attrs": {
+                                        "class": "profile",
+                                        "id": "victor"
+                                    },
+                                    "data": [
+                                        {
+                                            "type": "input",
+                                            "attrs": {
+                                                "class": "card-button",
+                                                "type": "checkbox"
+                                            },
+                                            "data": []
+                                        },
+                                        {
+                                            "type": "div",
+                                            "attrs": {
+                                                "class": "card"
+                                            },
+                                            "data": [
+                                                {
+                                                    "type": "div",
+                                                    "attrs": {
+                                                        "class": "card-front"
+                                                    },
+                                                    "data": [
+                                                        {
+                                                            "type": "div",
+                                                            "attrs": {
+                                                                "class": "cropper"
+                                                            },
+                                                            "data": [{
+                                                                "type": "img",
+                                                                "attrs": {
+                                                                    "src": "headshots/victor.jpeg"
+                                                                },
+                                                                "data": []
+                                                            }]
+                                                        },
+                                                        {
+                                                            "type": "div",
+                                                            "attrs": {
+                                                                "class": "profile-name"
+                                                            },
+                                                            "data": [{
+                                                                "type": "string",
+                                                                "data": "Victor Huang"
+                                                            }]
+                                                        },
+                                                        {
+                                                            "type": "div",
+                                                            "attrs": {
+                                                                "class": "profile-title"
+                                                            },
+                                                            "data": [{
+                                                                "type": "string",
+                                                                "data": "Social Chair & HackCMU Lead"
+                                                            }]
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "type": "div",
+                                                    "attrs": {
+                                                        "class": "card-back"
+                                                    },
+                                                    "data": [
+                                                        {
+                                                            "type": "div",
+                                                            "attrs": {
+                                                                "class": "profile-name"
+                                                            },
+                                                            "data": [{
+                                                                "type": "string",
+                                                                "data": "Victor Huang"
+                                                            }]
+                                                        },
+                                                        {
+                                                            "type": "div",
+                                                            "attrs": {
+                                                                "class": "profile-title"
+                                                            },
+                                                            "data": [{
+                                                                "type": "string",
+                                                                "data": "Social Chair & HackCMU Lead"
+                                                            }]
+                                                        },
+                                                        {
+                                                            "type": "div",
+                                                            "attrs": {
+                                                                "class": "profile-bio"
+                                                            },
+                                                            "data": [{
+                                                                "type": "string",
+                                                                "data": "I'm studying CS and HCI. I'd like to call myself an amateur film critique but in reality I just like watching movies and talking about them."
+                                                            }]
+                                                        },
+                                                        {
+                                                            "type": "div",
+                                                            "attrs": {
+                                                                "class": "profile-links"
+                                                            },
+                                                            "data": [{
+                                                                "type": "a",
+                                                                "attrs": {
+                                                                    "class": "linkedin",
+                                                                    "href": "https://www.linkedin.com/in/victorhuangwq/",
+                                                                    "target": "_blank"
+                                                                },
+                                                                "data": [{
+                                                                    "type": "img",
+                                                                    "attrs": {
+                                                                        "src": "logos/linkedin.png"
+                                                                    },
+                                                                    "data": []
+                                                                }]
+                                                            }]
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "label",
+                                    "attrs": {
+                                        "class": "profile",
+                                        "id": "richard"
+                                    },
+                                    "data": [
+                                        {
+                                            "type": "input",
+                                            "attrs": {
+                                                "class": "card-button",
+                                                "type": "checkbox"
+                                            },
+                                            "data": []
+                                        },
+                                        {
+                                            "type": "div",
+                                            "attrs": {
+                                                "class": "card"
+                                            },
+                                            "data": [
+                                                {
+                                                    "type": "div",
+                                                    "attrs": {
+                                                        "class": "card-front"
+                                                    },
+                                                    "data": [
+                                                        {
+                                                            "type": "div",
+                                                            "attrs": {
+                                                                "class": "cropper"
+                                                            },
+                                                            "data": [{
+                                                                "type": "img",
+                                                                "attrs": {
+                                                                    "src": "headshots/jocelyn.jpg"
+                                                                },
+                                                                "data": []
+                                                            }]
+                                                        },
+                                                        {
+                                                            "type": "div",
+                                                            "attrs": {
+                                                                "class": "profile-name"
+                                                            },
+                                                            "data": [{
+                                                                "type": "string",
+                                                                "data": "Richard Zhan"
+                                                            }]
+                                                        },
+                                                        {
+                                                            "type": "div",
+                                                            "attrs": {
+                                                                "class": "profile-title"
+                                                            },
+                                                            "data": [{
+                                                                "type": "string",
+                                                                "data": "AWAP Lead"
+                                                            }]
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "type": "div",
+                                                    "attrs": {
+                                                        "class": "card-back"
+                                                    },
+                                                    "data": [
+                                                        {
+                                                            "type": "div",
+                                                            "attrs": {
+                                                                "class": "profile-name"
+                                                            },
+                                                            "data": [{
+                                                                "type": "string",
+                                                                "data": "Richard Zhan"
+                                                            }]
+                                                        },
+                                                        {
+                                                            "type": "div",
+                                                            "attrs": {
+                                                                "class": "profile-title"
+                                                            },
+                                                            "data": [{
+                                                                "type": "string",
+                                                                "data": "AWAP Lead"
+                                                            }]
+                                                        },
+                                                        {
+                                                            "type": "div",
+                                                            "attrs": {
+                                                                "class": "profile-bio"
+                                                            },
+                                                            "data": [{
+                                                                "type": "string",
+                                                                "data": "I am Richard."
+                                                            }]
+                                                        },
+                                                        {
+                                                            "type": "div",
+                                                            "attrs": {
+                                                                "class": "profile-links"
+                                                            },
+                                                            "data": []
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "label",
+                                    "attrs": {
+                                        "class": "profile",
+                                        "id": "jackson"
+                                    },
+                                    "data": [
+                                        {
+                                            "type": "input",
+                                            "attrs": {
+                                                "class": "card-button",
+                                                "type": "checkbox"
+                                            },
+                                            "data": []
+                                        },
+                                        {
+                                            "type": "div",
+                                            "attrs": {
+                                                "class": "card"
+                                            },
+                                            "data": [
+                                                {
+                                                    "type": "div",
+                                                    "attrs": {
+                                                        "class": "card-front"
+                                                    },
+                                                    "data": [
+                                                        {
+                                                            "type": "div",
+                                                            "attrs": {
+                                                                "class": "cropper"
+                                                            },
+                                                            "data": [{
+                                                                "type": "img",
+                                                                "attrs": {
+                                                                    "src": "headshots/jocelyn.jpg"
+                                                                },
+                                                                "data": []
+                                                            }]
+                                                        },
+                                                        {
+                                                            "type": "div",
+                                                            "attrs": {
+                                                                "class": "profile-name"
+                                                            },
+                                                            "data": [{
+                                                                "type": "string",
+                                                                "data": "Jackson Zou"
+                                                            }]
+                                                        },
+                                                        {
+                                                            "type": "div",
+                                                            "attrs": {
+                                                                "class": "profile-title"
+                                                            },
+                                                            "data": [{
+                                                                "type": "string",
+                                                                "data": "AWAP Lead"
+                                                            }]
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "type": "div",
+                                                    "attrs": {
+                                                        "class": "card-back"
+                                                    },
+                                                    "data": [
+                                                        {
+                                                            "type": "div",
+                                                            "attrs": {
+                                                                "class": "profile-name"
+                                                            },
+                                                            "data": [{
+                                                                "type": "string",
+                                                                "data": "Jackson Zou"
+                                                            }]
+                                                        },
+                                                        {
+                                                            "type": "div",
+                                                            "attrs": {
+                                                                "class": "profile-title"
+                                                            },
+                                                            "data": [{
+                                                                "type": "string",
+                                                                "data": "AWAP Lead"
+                                                            }]
+                                                        },
+                                                        {
+                                                            "type": "div",
+                                                            "attrs": {
+                                                                "class": "profile-bio"
+                                                            },
+                                                            "data": [{
+                                                                "type": "string",
+                                                                "data": "I am Jackson."
                                                             }]
                                                         },
                                                         {
@@ -999,7 +1277,7 @@
                                                             },
                                                             "data": [{
                                                                 "type": "string",
-                                                                "data": "Officer"
+                                                                "data": "Administrative Specialist"
                                                             }]
                                                         }
                                                     ]
@@ -1027,7 +1305,7 @@
                                                             },
                                                             "data": [{
                                                                 "type": "string",
-                                                                "data": "Officer"
+                                                                "data": "Administrative Specialist"
                                                             }]
                                                         },
                                                         {
@@ -1037,118 +1315,7 @@
                                                             },
                                                             "data": [{
                                                                 "type": "string",
-                                                                "data": "Hi there! My name is David, and I'm a sophomore studying CS. Outside of school, my favorite hobby is golfing, and I am a member of CMU's men's golf team."
-                                                            }]
-                                                        },
-                                                        {
-                                                            "type": "div",
-                                                            "attrs": {
-                                                                "class": "profile-links"
-                                                            },
-                                                            "data": []
-                                                        }
-                                                    ]
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                },
-                                {
-                                    "type": "label",
-                                    "attrs": {
-                                        "class": "profile",
-                                        "id": "jocelyn"
-                                    },
-                                    "data": [
-                                        {
-                                            "type": "input",
-                                            "attrs": {
-                                                "class": "card-button",
-                                                "type": "checkbox"
-                                            },
-                                            "data": []
-                                        },
-                                        {
-                                            "type": "div",
-                                            "attrs": {
-                                                "class": "card"
-                                            },
-                                            "data": [
-                                                {
-                                                    "type": "div",
-                                                    "attrs": {
-                                                        "class": "card-front"
-                                                    },
-                                                    "data": [
-                                                        {
-                                                            "type": "div",
-                                                            "attrs": {
-                                                                "class": "cropper"
-                                                            },
-                                                            "data": [{
-                                                                "type": "img",
-                                                                "attrs": {
-                                                                    "src": "headshots/jocelyn.jpg"
-                                                                },
-                                                                "data": []
-                                                            }]
-                                                        },
-                                                        {
-                                                            "type": "div",
-                                                            "attrs": {
-                                                                "class": "profile-name"
-                                                            },
-                                                            "data": [{
-                                                                "type": "string",
-                                                                "data": "Jocelyn Tseng"
-                                                            }]
-                                                        },
-                                                        {
-                                                            "type": "div",
-                                                            "attrs": {
-                                                                "class": "profile-title"
-                                                            },
-                                                            "data": [{
-                                                                "type": "string",
-                                                                "data": "Officer"
-                                                            }]
-                                                        }
-                                                    ]
-                                                },
-                                                {
-                                                    "type": "div",
-                                                    "attrs": {
-                                                        "class": "card-back"
-                                                    },
-                                                    "data": [
-                                                        {
-                                                            "type": "div",
-                                                            "attrs": {
-                                                                "class": "profile-name"
-                                                            },
-                                                            "data": [{
-                                                                "type": "string",
-                                                                "data": "Jocelyn Tseng"
-                                                            }]
-                                                        },
-                                                        {
-                                                            "type": "div",
-                                                            "attrs": {
-                                                                "class": "profile-title"
-                                                            },
-                                                            "data": [{
-                                                                "type": "string",
-                                                                "data": "Officer"
-                                                            }]
-                                                        },
-                                                        {
-                                                            "type": "div",
-                                                            "attrs": {
-                                                                "class": "profile-bio"
-                                                            },
-                                                            "data": [{
-                                                                "type": "string",
-                                                                "data": "Hello! I'm Jocelyn, a sophomore studying Computer Science and doing research in Augmented Reality! At a given point in time, you can find me in Gates, sleeping, running outdoors, or eating spaghetti."
+                                                                "data": "Hi! I'm David, a junior studying CS and Math and research assistant in the Auton Lab. Outside of school, I enjoy golfing, working out, and watching Top Gun: Maverick."
                                                             }]
                                                         },
                                                         {
@@ -1160,7 +1327,7 @@
                                                                 "type": "a",
                                                                 "attrs": {
                                                                     "class": "linkedin",
-                                                                    "href": "https://www.linkedin.com/in/jocelyntseng/",
+                                                                    "href": "https://www.linkedin.com/in/david-luo-5401491b0/",
                                                                     "target": "_blank"
                                                                 },
                                                                 "data": [{
@@ -1171,117 +1338,6 @@
                                                                     "data": []
                                                                 }]
                                                             }]
-                                                        }
-                                                    ]
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                },
-                                {
-                                    "type": "label",
-                                    "attrs": {
-                                        "class": "profile",
-                                        "id": "howard"
-                                    },
-                                    "data": [
-                                        {
-                                            "type": "input",
-                                            "attrs": {
-                                                "class": "card-button",
-                                                "type": "checkbox"
-                                            },
-                                            "data": []
-                                        },
-                                        {
-                                            "type": "div",
-                                            "attrs": {
-                                                "class": "card"
-                                            },
-                                            "data": [
-                                                {
-                                                    "type": "div",
-                                                    "attrs": {
-                                                        "class": "card-front"
-                                                    },
-                                                    "data": [
-                                                        {
-                                                            "type": "div",
-                                                            "attrs": {
-                                                                "class": "cropper"
-                                                            },
-                                                            "data": [{
-                                                                "type": "img",
-                                                                "attrs": {
-                                                                    "src": "headshots/howard.jpg"
-                                                                },
-                                                                "data": []
-                                                            }]
-                                                        },
-                                                        {
-                                                            "type": "div",
-                                                            "attrs": {
-                                                                "class": "profile-name"
-                                                            },
-                                                            "data": [{
-                                                                "type": "string",
-                                                                "data": "Howard Tang"
-                                                            }]
-                                                        },
-                                                        {
-                                                            "type": "div",
-                                                            "attrs": {
-                                                                "class": "profile-title"
-                                                            },
-                                                            "data": [{
-                                                                "type": "string",
-                                                                "data": "Officer"
-                                                            }]
-                                                        }
-                                                    ]
-                                                },
-                                                {
-                                                    "type": "div",
-                                                    "attrs": {
-                                                        "class": "card-back"
-                                                    },
-                                                    "data": [
-                                                        {
-                                                            "type": "div",
-                                                            "attrs": {
-                                                                "class": "profile-name"
-                                                            },
-                                                            "data": [{
-                                                                "type": "string",
-                                                                "data": "Howard Tang"
-                                                            }]
-                                                        },
-                                                        {
-                                                            "type": "div",
-                                                            "attrs": {
-                                                                "class": "profile-title"
-                                                            },
-                                                            "data": [{
-                                                                "type": "string",
-                                                                "data": "Officer"
-                                                            }]
-                                                        },
-                                                        {
-                                                            "type": "div",
-                                                            "attrs": {
-                                                                "class": "profile-bio"
-                                                            },
-                                                            "data": [{
-                                                                "type": "string",
-                                                                "data": "Hello there, I'm Howard and I am a sophomore studying Math and CS. I enjoying leaving random art on whiteboards around campus and eating General Tso's chicken at Hunan Express."
-                                                            }]
-                                                        },
-                                                        {
-                                                            "type": "div",
-                                                            "attrs": {
-                                                                "class": "profile-links"
-                                                            },
-                                                            "data": []
                                                         }
                                                     ]
                                                 }
