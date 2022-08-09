@@ -260,7 +260,7 @@
                                                             },
                                                             "data": [{
                                                                 "type": "string",
-                                                                "data": "Hello! I'm Jocelyn, a junior studying Computer Science and concentrating in Machine Learning! At a given point in time, you can find me in Gates, sleeping, running outdoors, or eating ramen or pasta."
+                                                                "data": "Hello! I'm Jocelyn, a junior studying Computer Science and concentrating in Machine Learning! At a given point in time, you can find me in Gates, pushing for CIA Buggy, sleeping, running outdoors, or eating ramen or pasta."
                                                             }]
                                                         },
                                                         {
@@ -1144,7 +1144,7 @@
                                                             "data": [{
                                                                 "type": "img",
                                                                 "attrs": {
-                                                                    "src": "headshots/jocelyn.jpg"
+                                                                    "src": "headshots/jackson.jpg"
                                                                 },
                                                                 "data": []
                                                             }]
@@ -1204,7 +1204,7 @@
                                                             },
                                                             "data": [{
                                                                 "type": "string",
-                                                                "data": "I am Jackson."
+                                                                "data": "Hi, I'm Jackson. I'm from NYC and am currently a junior studying CS. When I'm not watching youtube or procrastinating, I like to go outside and be active. One day, I hope to dunk on my friend Michael Chen."
                                                             }]
                                                         },
                                                         {
