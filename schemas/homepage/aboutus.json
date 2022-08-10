@@ -797,7 +797,7 @@
                                                             "data": [{
                                                                 "type": "img",
                                                                 "attrs": {
-                                                                    "src": "headshots/jocelyn.jpg"
+                                                                    "src": "headshots/stephanie.png"
                                                                 },
                                                                 "data": []
                                                             }]
@@ -857,7 +857,7 @@
                                                             },
                                                             "data": [{
                                                                 "type": "string",
-                                                                "data": "I am Stephanie Guan."
+                                                                "data": "Hellooo, I'm Stephanie! I'm a junior majoring in CS and considering a concentration in HCI. I enjoy video games, books, and digital art, which is probably why I was drafted— I mean, applied— for this position."
                                                             }]
                                                         },
                                                         {
