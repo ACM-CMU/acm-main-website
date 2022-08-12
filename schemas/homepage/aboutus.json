@@ -686,7 +686,7 @@
                                                             "data": [{
                                                                 "type": "img",
                                                                 "attrs": {
-                                                                    "src": "headshots/jocelyn.jpg"
+                                                                    "src": "headshots/michelleli.jpeg"
                                                                 },
                                                                 "data": []
                                                             }]
@@ -746,7 +746,7 @@
                                                             },
                                                             "data": [{
                                                                 "type": "string",
-                                                                "data": "I am Michelle Li."
+                                                                "data": "HI! I’m also Michelle :D a junior studying CS and business. I like ramen, cats, card games, and dancing!"
                                                             }]
                                                         },
                                                         {
@@ -1033,7 +1033,7 @@
                                                             "data": [{
                                                                 "type": "img",
                                                                 "attrs": {
-                                                                    "src": "headshots/jocelyn.jpg"
+                                                                    "src": "headshots/richard.jpeg"
                                                                 },
                                                                 "data": []
                                                             }]
@@ -1093,7 +1093,7 @@
                                                             },
                                                             "data": [{
                                                                 "type": "string",
-                                                                "data": "I am Richard."
+                                                                "data": "Hey, I'm Richard, a junior studying CS and math. I like to play all kinds of games (cards/board/video) and also love rock climbing."
                                                             }]
                                                         },
                                                         {
@@ -1101,7 +1101,21 @@
                                                             "attrs": {
                                                                 "class": "profile-links"
                                                             },
-                                                            "data": []
+                                                            "data": [{
+                                                                "type": "a",
+                                                                "attrs": {
+                                                                    "class": "linkedin",
+                                                                    "href": "https://www.linkedin.com/in/rzhan11/",
+                                                                    "target": "_blank"
+                                                                },
+                                                                "data": [{
+                                                                    "type": "img",
+                                                                    "attrs": {
+                                                                        "src": "logos/linkedin.png"
+                                                                    },
+                                                                    "data": []
+                                                                }]
+                                                            }]
                                                         }
                                                     ]
                                                 }
