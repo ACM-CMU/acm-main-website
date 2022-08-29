@@ -47,6 +47,33 @@
                         {
                             "type": "div",
                             "attrs": {
+                                "class": "plat-tier-label"
+                            },
+                            "data": [{
+                                "type": "string",
+                                "data": "Plat Tier"
+                            }]
+                        },
+                        {
+                            "type": "div",
+                            "attrs": {
+                                "class": "grid",
+                                "id": "logo-grid"
+                            },
+                            "data": [
+                                {
+                                    "type": "img",
+                                    "attrs": {
+                                        "id": "citadel",
+                                        "src": "images/citadel.png"
+                                    },
+                                    "data": []
+                                }
+                            ]
+                        },
+                        {
+                            "type": "div",
+                            "attrs": {
                                 "class": "gold-tier-label"
                             },
                             "data": [{
@@ -80,14 +107,6 @@
                                 {
                                     "type": "img",
                                     "attrs": {
-                                        "id": "citadel",
-                                        "src": "images/citadel.png"
-                                    },
-                                    "data": []
-                                }, 
-                                {
-                                    "type": "img",
-                                    "attrs": {
                                         "id": "hrt",
                                         "src": "images/hrt.png"
                                     },
@@ -106,6 +125,14 @@
                                     "attrs": {
                                         "id": "microsoft",
                                         "src": "images/microsoft.svg"
+                                    },
+                                    "data": []
+                                }, 
+                                {
+                                    "type": "img",
+                                    "attrs": {
+                                        "id": "meta",
+                                        "src": "images/meta.png"
                                     },
                                     "data": []
                                 }
@@ -135,8 +162,15 @@
                                         "src": "images/omc.png"
                                     },
                                     "data": []
+                                }, 
+                                {
+                                    "type": "img",
+                                    "attrs": {
+                                        "id": "sandia",
+                                        "src": "images/sandia.svg"
+                                    },
+                                    "data": []
                                 }
-                            
                             ]
                         }, 
                         {

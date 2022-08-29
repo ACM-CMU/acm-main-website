@@ -43,14 +43,18 @@
                             "data": [
                                 {
                                     "type": "a",
+                                    "attrs": {
+                                        "href": "http://hackcmu.org/"
+                                    },
                                     "data": [{
-                                        "type": "string",
+                                        "type": "img",
                                         "attrs": {
-                                            "id": "hackcmu"
+                                            "id": "hackcmu",
+                                            "src": "images/hackcmu2022.png"
                                         },
-                                        "data": "HackCMU 2022 - Coming Soon!"
+                                        "data": []
                                     }]
-                                }, 
+                                },
                                 {
                                     "type": "a",
                                     "data": [{
